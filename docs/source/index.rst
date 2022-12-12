@@ -1,7 +1,7 @@
 Welcome to Tomorrow's Cities Capacity Strengthening
 ===================================================
 
-**Tomorrow's Cities Capacity Strengthening** (/lu'make/) is ...
+**Tomorrow's Cities Capacity Strengthening** is ...
 
 As an example, check out the :doc:`Future Visioning` section.
 
